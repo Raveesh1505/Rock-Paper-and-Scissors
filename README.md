@@ -2,12 +2,12 @@
 
 ## Table of context
 
-- [How to play](#how-to-play)
-- [Rules of the game](#rules-of-the-game)
+- [**How to play**](#how-to-play)
+- [**Rules of the game**](#rules-of-the-game)
 
 ## How to play
 
-You can play this game by downloading the **game.py** file on your local computer or click here to play.
+You can play this game by downloading the **game.py** file on your local computer or [click here to play](gitpod.io/#https://github.com/Raveesh1505/Rock-Paper-and-Scissors).
 
 ## Rules of the game
 
